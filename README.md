@@ -22,7 +22,7 @@ This project analyzes the Netflix Titles dataset using **SQL Server** for data c
 - Track yearly trends for audience demand
 
 ## Dashboard Preview
-![Overview](images/overview.png)
+![Overview](Images/overview.png)
 
 ## Author
 Created by [Nourhan Adel] — 2025
