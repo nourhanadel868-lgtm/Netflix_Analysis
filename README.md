@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# Netflix Data Analysis Project
 
 ## Overview
 This project analyzes the Netflix Titles dataset using **SQL Server** for data cleaning and **Power BI** for dashboard visualization.
